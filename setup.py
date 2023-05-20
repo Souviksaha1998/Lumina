@@ -25,7 +25,7 @@ classifiers = [
 setuptools.setup(
 include_package_data=True,
 name='lumina',
-version=version,
+version='1.0.1',
 description='Customize your object detection bounding boxes and filter the tracking zones with Lumina',
 long_description =readme,
 long_description_content_type='text/markdown',
