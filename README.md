@@ -2,7 +2,11 @@
 # Lumina 🚀
 #### With Lumina, you can customize object bounding boxes for better visualization and create zones for more efficient tracking.
 
-<img src='images\logo.png'>
+<img src='images\logo1.png'>
+
+## Output from Lumina 
+
+<video src='images\output_video5.mp4' width=180/>
 
 ##  How to use Lumina❓
 #### Install the module first using pip 🚀
@@ -38,8 +42,7 @@ color = color_palette()
 ### This function will create a polygon zone.
 <img src='images\ex5.png'>
 
-## 1.2 polygon_in_out_counter function will create polygon region and return bool = True,
-### if anything is inside in the poly region -- this function is helpful for region based tracking. Alternatively You can use line_in_out_counter
+## 1.2 polygon_in_out_counter function will create polygon region and return bool = True, if anything is inside in the poly region -- this function is helpful for region based tracking. Alternatively You can use line_in_out_counter
 
 <img src='images\ex6.png'>
 
