@@ -332,6 +332,11 @@ class Lumina():
         cv2.fillPoly(mask, [np.array(points,dtype=np.int32)], 255,cv2.LINE_AA)
         mask = cv2.bitwise_and(image,image,mask=mask)
         return mask
+    
+    
+        
+    
+        
 
 
 
